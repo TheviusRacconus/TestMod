@@ -1,0 +1,8 @@
+#Blocks
+tile.testmod:colorfulBlock.name=Colorful Block
+
+#Items
+item.thiefMask.name=Thief Mask
+
+#Creative Tabs
+itemGroup.testmod=Test Mod
