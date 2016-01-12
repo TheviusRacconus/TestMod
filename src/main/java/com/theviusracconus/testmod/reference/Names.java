@@ -10,6 +10,7 @@ public class Names
     public static final class Blocks
     {
         public static final String COLORFUL = "colorfulBlock";
+        public static final String THEVIUS_ORE = "theviusOre";
     }
 
     public static final class Keys

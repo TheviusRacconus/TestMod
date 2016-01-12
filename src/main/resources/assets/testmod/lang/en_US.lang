@@ -1,5 +1,6 @@
 #Blocks
 tile.testmod:colorfulBlock.name=Colorful Block
+tile.testmod:theviusOre.name=Thevius Ore
 
 #Items
 item.thiefMask.name=Thief Mask
